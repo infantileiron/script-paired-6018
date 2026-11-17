@@ -1,1 +1,1 @@
-export const TEAMS=['企业一组','企业二组'];export const DECISIONS=['继续试点','分组采纳','暂缓采纳'];export const STATES=['queued','running','done','failed'];export const ROLES=['admin','analyst','viewer'];
+export const TEAMS=['企业一组','企业二组'];export const DECISIONS=['继续试点','分组采纳','暂缓采纳'];export const STATES=['queued','running','done','failed'];export const ROLES=['admin','analyst','viewer'];export const SCRIPTS=['新话术','原话术'];export const GROUPS=['换话术','原话术'];export const EXPERIMENT_STATES=['registering','assigned','closed'];export const CLOSING_STATES=['collecting','done','failed'];
